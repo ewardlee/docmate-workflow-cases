@@ -1,110 +1,75 @@
 # DocMate Stories — Season 01 Production Board
 
-The first season proves one idea repeatedly:
+## Production policy
 
-> **Documents are not files. They are decisions with history.**
+**One episode at a time.**
 
-## Production status legend
+No later episode enters active production until the current episode has reached a finished, quality-reviewed master.
 
-- **SCRIPT READY** — story, fixtures, and shot logic defined.
-- **FIXTURES READY** — synthetic test documents committed.
-- **REAL UI NEEDED** — authentic DocMate capture required before publication.
-- **AI SCENE NEEDED** — cinematic context shot can be generated.
-- **PUBLISH READY** — all product proof checked against shipping build.
+This prevents the series from becoming a library of generic scripts.
 
-| Ep | Working title | Audience | Hero proof | Status |
-|---:|---|---|---|---|
-| 01 | Just a Small Change | Tenant / property | Notice 30 → 90 days | SCRIPT READY / FIXTURES READY |
-| 02 | We Cleaned Up the Wording | Job candidate / HR | Salary $92k → $88k | SCRIPT READY / FIXTURES READY |
-| 03 | The Numbers Don't Match | Finance / procurement | $8,400 → $9,750 | SCRIPT READY / FIXTURES READY |
-| 04 | Final Final v7 | Freelancer / consultant | Net 30 → Net 60 | STORY READY |
-| 05 | Page 17 | Contract owner | hidden renewal deadline | STORY READY |
-| 06 | Which One Did I Sign? | General / business | version lineage + Signed/Fingerprint | STORY READY |
+## Active episode
 
-## Episode 01 asset checklist
+### S01E01 — The Version You Didn't Read
 
-### AI narrative shots
-1. Night apartment establishing shot — 1.5s
-2. Phone receives landlord message — 2s
-3. Tenant thumb pauses above Sign — 2s
-4. Reaction close-up after hidden change — optional 1s
+**Audience:** tenant / property manager  
+**Human stakes:** a routine lease revision quietly changes whether the couple's dog is allowed.  
+**Hero proof:** real DocMate Compare surfaces the pet-clause change.  
+**Outcome:** they pause signing and request clarification.  
+**Status:** ACTIVE PRODUCTION
 
-### Authentic product shots
-1. DocMate Files / target document
-2. Add as New Version flow
-3. Original/Revised Compare result
-4. selected 30 → 90 day finding
-5. source-page evidence
-6. Review comment
-7. saved reviewed/current state
-8. Signed / Fingerprint / Activity state only if explicitly proven in shipping capture
+Required gates:
+- [x] core story locked
+- [x] synthetic fixture pair aligned to story
+- [x] exact expected changes documented
+- [x] creative brief created
+- [ ] authentic DocMate product capture
+- [ ] narrative storyboard / shot references
+- [ ] AI narrative shots
+- [ ] 55–75s master edit
+- [ ] 45–60s proof cut
+- [ ] platform derivatives
+- [ ] final product-truth QA
 
-### Audio
-- opening: low domestic room tone
-- notification vibration
-- quiet tension bed
-- short drop/silence on hidden change
-- restrained resolved end sting
+## Later episodes — PARKED
 
-### Captions
-Keep each overlay under eight words:
-- Nothing major changed.
-- Would you sign it?
-- Expected.
-- That wasn't mentioned.
-- Before you sign, know what changed.
+These are ideas only. Do not develop or generate them until Episode 01 is finished.
 
-## Episode 02 asset checklist
+| Ep | Working title | Audience | Core |
+|---:|---|---|---|
+| 02 | We Cleaned Up the Wording | Job candidate / HR | revised offer changes |
+| 03 | The Numbers Don't Match | Finance / procurement | quote vs invoice |
+| 04 | Final Final v7 | Freelancer / consultant | SOW revisions |
+| 05 | Page 17 | Contract owner | buried deadline |
+| 06 | Which One Did I Sign? | General / business | document lineage |
 
-### AI narrative
-- morning email / candidate preparing for day
-- relaxed smile before opening "updated offer"
-- reaction beat after salary change
+## Episode 01 production philosophy
 
-### Authentic product
-- exact Original/Revised pair
-- salary finding
-- remote-day finding
-- source evidence
-- Review comment
-- final version state where proven
+The master film is not a feature demo.
 
-## Episode 03 asset checklist
+It needs:
+- character
+- relationship
+- subtext
+- a reason to care before the app appears
+- one emotionally legible consequence
+- restrained acting
+- authentic product proof
+- an ending that respects the viewer
 
-### AI narrative
-- finance desk / approval message
-- "please approve today" pressure
-- amount remembered from quote
+The product should appear only when the story earns it.
 
-### Authentic product
-- quote amount evidence
-- invoice total evidence
-- service-fee evidence
-- payment-term evidence
-- Review / follow-up / Reminder if captured from shipping build
+## Derivatives
 
-## Publication gate
+Only after the master works:
+- 35–45s vertical social cut
+- 15s teaser
+- 45–60s product proof cut
+- YouTube extended version
+- 4:5 social cut
+- carousel
+- Reddit educational post
+- LinkedIn case
+- GitHub proof case
 
-Do not publish an episode until:
-
-1. synthetic input files are frozen;
-2. real product capture uses a known shipping/TestFlight build;
-3. every visible product result is reproduced from the case fixture;
-4. no AI-generated DocMate screen is present;
-5. claims match the actual product behavior;
-6. any legal/financial interpretation is explicitly left to the user;
-7. final edit has a disclosure/brand frame where appropriate.
-
-## Output derivatives per episode
-
-From one master:
-- 9:16 30s Short
-- 9:16 15s cut
-- 16:9 60–90s YouTube proof cut
-- 4:5 Instagram/Facebook cut
-- 6-frame carousel
-- LinkedIn text case
-- Reddit educational discussion
-- GitHub reproducible case
-
-Do not treat these as eight separate campaigns. They are eight expressions of one verified story.
+The derivatives come from the film. The film is not built from derivative templates.

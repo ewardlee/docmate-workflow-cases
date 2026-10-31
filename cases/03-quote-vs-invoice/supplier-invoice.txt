@@ -1,0 +1,23 @@
+FICTIONAL SAMPLE — NOT A REAL INVOICE
+BLUE HARBOR SUPPLY CO.
+Invoice INV-2081
+
+Customer: Linden Street Studio
+Invoice Date: April 18, 2027
+Due Date: May 3, 2027
+
+ITEMS
+Ergonomic Work Chairs — 20 units @ USD 420.00
+Goods Subtotal: USD 8,400.00
+
+Shipping: USD 350.00
+Service Fee: USD 1,000.00
+TOTAL: USD 9,750.00
+
+PAYMENT TERMS
+Net 15 days from invoice date.
+
+REFERENCE
+Approved quotation: Q-1048
+
+This fictional sample is for product testing only.

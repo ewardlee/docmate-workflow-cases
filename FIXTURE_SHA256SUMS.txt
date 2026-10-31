@@ -1,0 +1,14 @@
+# Synthetic fixture SHA-256
+# Generated 2026-10-31
+78c62abbf1ba3d1c37a23c0b63f8e96f6c550575c98ea217b4219b3381f09cff  cases/01-lease-renewal/lease-2026.pdf
+596c9ad0ddf9fad1c022c8cd0b9e4e14a815cd518e965b95e6c10c6c1740f77c  cases/01-lease-renewal/lease-2026.txt
+7bf6b8c9cf9ef071dd0e81282590bbc8931b57229c0385ef7dc1bb5023d1e139  cases/01-lease-renewal/lease-renewal-2027.pdf
+c9b82f3adf82280b9b9424181815c6c613796d02269f2bd97e53edb726244dac  cases/01-lease-renewal/lease-renewal-2027.txt
+93863ff1183b00dc65662a0c2c63786947f5e31052dadf160ef3ebc216ee9ae3  cases/02-revised-job-offer/offer-original.pdf
+bef36fbef1c26f000d816693a8178848101fbb6b3102baefc281c947bc6361d8  cases/02-revised-job-offer/offer-original.txt
+00b41055d89b33c854f4a29737ed5dbdf2c789e1a7a881e47fbc6399e7a229e6  cases/02-revised-job-offer/offer-revised.pdf
+e6c38751ec73a8679355a2e3bfc68d1b91f79daea10a85589f8d23083b3221b6  cases/02-revised-job-offer/offer-revised.txt
+94c8aeef5d213ce61ce6fca69cc03e10cf06a7c6aea61d8917fe99a5971c6163  cases/03-quote-vs-invoice/approved-quote.pdf
+f89f018f950de080bf3780cb7be6202e7117c31ac332ce71023af00f7ffed6d8  cases/03-quote-vs-invoice/approved-quote.txt
+d97a9967c170ea9218dd66951203f946c1b2ab06566ff5a72fc1e86b8c4c52c9  cases/03-quote-vs-invoice/supplier-invoice.pdf
+2452da5983cdb44cea3b40ce720b1d723a31eb12d24b574ae2e4360a32b79466  cases/03-quote-vs-invoice/supplier-invoice.txt

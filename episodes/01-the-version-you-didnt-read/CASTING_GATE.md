@@ -49,3 +49,19 @@ Do not proceed to animation until:
 - 4 new Milo-only casting variants
 
 The production reference will be chosen from the new batch; the rejected reference remains excluded.
+
+
+## Owner decision — Milo locked, humans reopened
+
+Owner feedback:
+- Milo is acceptable and should be preserved.
+- Both human leads are still below the required attractiveness bar.
+
+Action:
+- Lock Milo continuity from the accepted casting batch.
+- Recast only Maya and Daniel.
+- New human casting must be visibly stronger at first glance: true leading-actor / leading-actress level while remaining natural and believable.
+- Do not animate a family shot until the human casting passes this gate.
+
+Current recast batch:
+- 4 new couple variants using the accepted Milo as the fixed visual reference.
